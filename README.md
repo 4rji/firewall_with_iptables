@@ -2,6 +2,12 @@
 
 `firewall-ipt` is an interactive `iptables` helper for quickly managing host firewall rules from a menu.
 
+## Screenshots
+
+![Menu interactivo (1.webp)](1.webp "Menu interactivo")
+
+![Available in Spanish and Vietnamese (2.webp)](2.webp "Disponible en espanol y vietnamise")
+
 ## What It Does
 
 - Creates and applies custom rules for `INPUT`, `OUTPUT`, and `FORWARD`
